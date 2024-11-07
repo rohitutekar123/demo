@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+whisper==1.0.0
+torch  # Latest version
+librosa==0.10.0
+pydub==0.25.1
+numpy==1.23.5
+distutils-pytest==0.2.1
